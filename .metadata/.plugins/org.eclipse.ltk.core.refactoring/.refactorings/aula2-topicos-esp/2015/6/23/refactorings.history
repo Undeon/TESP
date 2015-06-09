@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;escola/src/main/java/br.unibh.escola.entidades&apos;&#x0D;&#x0A;- Original project: &apos;aula2-topicos-esp&apos;&#x0D;&#x0A;- Destination element: &apos;escola/src/main/java/br.unibh.escola.entidades&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     br.unibh.entidades.Professor.java&#x0D;&#x0A;     br.unibh.entidades.Aluno.java&#x0D;&#x0A;     br.unibh.entidades.Pessoa.java" description="Copy compilation units" destination="=escola/src\/main\/java&lt;br.unibh.escola.entidades" element1="/src&lt;br.unibh.entidades{Professor.java" element2="/src&lt;br.unibh.entidades{Aluno.java" element3="/src&lt;br.unibh.entidades{Pessoa.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1433287856994" units="3" version="1.0"/>
+</session>

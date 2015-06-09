@@ -19,4 +19,7 @@
 	<section name="ClasspathContainerSelectionPage">
 		<item value="7" key="index"/>
 	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
 </section>
