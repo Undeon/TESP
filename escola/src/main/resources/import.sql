@@ -85,7 +85,7 @@ INSERT INTO `tb_pessoa` (`ID`, `CPF`, `nome`) VALUES
 --
 
 CREATE TABLE IF NOT EXISTS `tb_aluno` (
-  `DATAANIVERSARIO` date NOT NULL,
+  `DATA_ANIVERSARIO` date NOT NULL,
   `MATRICULA` bigint(20) NOT NULL,
   `ID` bigint(20) NOT NULL,
   PRIMARY KEY (`ID`),
@@ -97,7 +97,7 @@ CREATE TABLE IF NOT EXISTS `tb_aluno` (
 -- Extraindo dados da tabela `tb_aluno`
 --
 
-INSERT INTO `tb_aluno` (`DATAANIVERSARIO`, `MATRICULA`, `ID`) VALUES
+INSERT INTO `tb_aluno` (`DATA_ANIVERSARIO`, `MATRICULA`, `ID`) VALUES
 ('2015-05-04', 44444, 1),
 ('1970-09-12', 12567, 2),
 ('1985-12-18', 12345, 3);
@@ -119,10 +119,7 @@ CREATE TABLE IF NOT EXISTS `tb_professor` (
 -- Extraindo dados da tabela `tb_professor`
 --
 
-INSERT INTO `tb_professor` (`SALARIO`, `ID`) VALUES
-('5000.00', 4),
-('7500.00', 5),
-('10000.00', 6);
+INSERT INTO `tb_professor` (`SALARIO`, `ID`) VALUES ('5000.00', 4),('7500.00', 5),('10000.00', 6);
 
 --
 -- Constraints for dumped tables

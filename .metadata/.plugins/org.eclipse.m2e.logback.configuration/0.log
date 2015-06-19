@@ -1294,3 +1294,496 @@
 2015-06-08 22:13:29,061 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2015-06-08 22:13:29,077 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-06-08 22:13:29,077 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:19:14,082 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:19:14,082 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-09 19:19:14,098 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:19:14,098 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:25:42,024 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:25:42,040 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:25:42,040 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:25:42,056 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:25:58,971 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:25:58,971 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:25:58,986 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:25:58,986 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:26:18,019 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:26:18,035 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:26:18,035 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:26:18,035 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:32:56,615 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:32:56,615 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:32:56,615 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:32:56,615 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:34:07,280 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:34:07,296 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:34:07,296 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:34:07,311 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:34:21,011 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:34:21,011 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:34:21,011 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:34:21,027 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:34:47,149 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:34:47,165 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:34:47,165 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:34:47,180 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:34:59,348 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:34:59,364 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:34:59,364 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:34:59,364 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:35:26,572 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:35:26,572 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:35:26,588 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:35:26,588 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:37:41,321 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:37:41,321 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:37:41,321 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:37:41,321 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:38:29,080 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:38:29,086 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:38:29,092 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:38:29,094 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:40:59,708 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:40:59,708 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 19:40:59,708 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:40:59,708 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:45:02,857 [Worker-129] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 19:45:05,098 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/richfaces-bom/4.3.7.Final/richfaces-bom-4.3.7.Final.pom
+2015-06-09 19:45:08,064 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:45:08,079 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:45:08,079 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:45:08,079 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:45:08,079 [Worker-129] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of escola
+2015-06-09 19:45:08,079 [Worker-129] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for escola
+2015-06-09 19:45:08,095 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:45:08,095 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:45:08,209 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:45:08,225 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:45:08,225 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:46:34,488 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 19:46:35,024 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/com/sun/faces/jsf-api/2.1.19/jsf-api-2.1.19.pom
+2015-06-09 19:46:35,383 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.19/jsf-api-2.1.19.pom
+2015-06-09 19:46:35,797 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.19/jsf-api-2.1.19.pom
+2015-06-09 19:46:36,532 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/com/sun/faces/jsf-impl/2.1.19/jsf-impl-2.1.19.pom
+2015-06-09 19:46:36,697 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.19/jsf-impl-2.1.19.pom
+2015-06-09 19:46:37,118 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.19/jsf-impl-2.1.19.pom
+2015-06-09 19:46:37,816 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/jstl/jstl/1.2/jstl-1.2.pom
+2015-06-09 19:46:37,962 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2015-06-09 19:46:38,290 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2015-06-09 19:46:40,331 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/com/sun/faces/jsf-api/2.1.19/jsf-api-2.1.19.jar
+2015-06-09 19:46:41,094 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/com/sun/faces/jsf-impl/2.1.19/jsf-impl-2.1.19.jar
+2015-06-09 19:46:41,827 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/jstl/jstl/1.2/jstl-1.2.jar
+2015-06-09 19:46:42,030 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.19/jsf-api-2.1.19.jar
+2015-06-09 19:46:47,621 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.19/jsf-api-2.1.19.jar
+2015-06-09 19:46:47,906 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.19/jsf-impl-2.1.19.jar
+2015-06-09 19:47:04,581 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.19/jsf-impl-2.1.19.jar
+2015-06-09 19:47:04,721 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2015-06-09 19:47:08,891 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2015-06-09 19:47:10,133 [Worker-125] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of escola
+2015-06-09 19:47:10,133 [Worker-125] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for escola
+2015-06-09 19:47:10,133 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:47:10,149 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:47:10,149 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:47:10,164 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:50:21,022 [Worker-131] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 19:50:21,916 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-ui/4.3.7/richfaces-components-ui-4.3.7.pom
+2015-06-09 19:50:22,143 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/richfaces/ui/richfaces-components-ui/4.3.7/richfaces-components-ui-4.3.7.pom
+2015-06-09 19:50:22,143 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:50:23,004 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-impl/4.3.7/richfaces-core-impl-4.3.7.pom
+2015-06-09 19:50:23,393 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/richfaces/core/richfaces-core-impl/4.3.7/richfaces-core-impl-4.3.7.pom
+2015-06-09 19:50:23,393 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:50:25,914 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-ui/4.3.7/richfaces-components-ui-4.3.7.jar
+2015-06-09 19:50:26,648 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-impl/4.3.7/richfaces-core-impl-4.3.7.jar
+2015-06-09 19:50:27,034 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/richfaces/ui/richfaces-components-ui/4.3.7/richfaces-components-ui-4.3.7.jar
+2015-06-09 19:50:27,374 [Worker-131] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/richfaces/core/richfaces-core-impl/4.3.7/richfaces-core-impl-4.3.7.jar
+2015-06-09 19:50:27,545 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:50:27,545 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:50:29,250 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:50:29,250 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:50:29,250 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:50:29,250 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:50:29,266 [Worker-131] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of escola
+2015-06-09 19:50:29,266 [Worker-131] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for escola
+2015-06-09 19:50:29,266 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:50:29,266 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:50:29,282 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:50:29,282 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:50:29,297 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:51:51,683 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:51:51,699 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:51:51,949 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 19:51:51,964 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:51:51,980 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:51:53,727 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:51:53,727 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 19:51:55,402 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:51:55,402 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:51:55,402 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:51:55,402 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:51:55,417 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of escola
+2015-06-09 19:51:55,417 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for escola
+2015-06-09 19:51:55,417 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:51:55,433 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:51:55,433 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:51:55,433 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:51:55,449 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 19:52:42,770 [Worker-132] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 19:52:44,986 [Worker-132] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of escola
+2015-06-09 19:52:44,986 [Worker-132] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for escola
+2015-06-09 19:52:44,995 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:52:44,998 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:52:44,998 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 19:52:45,017 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 19:54:17,368 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\TESP\workspace\escola
+2015-06-09 19:54:17,368 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-09 19:55:25,987 [Worker-125] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\TESP\workspace\escola
+2015-06-09 19:55:25,987 [Worker-125] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-09 19:58:15,086 [Worker-125] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-09 19:58:15,277 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 19:58:17,264 [Worker-125] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/main/java
+2015-06-09 19:58:17,264 [Worker-125] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/main/resources
+2015-06-09 19:58:17,279 [Worker-125] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/test/java
+2015-06-09 19:58:17,279 [Worker-125] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/test/resources
+2015-06-09 19:58:18,616 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 19:58:19,898 [Worker-125] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for escola
+2015-06-09 19:58:19,913 [Worker-125] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2015-06-09 19:59:22,799 [Worker-132] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\TESP\workspace\aula2-topicos-esp
+2015-06-09 19:59:22,799 [Worker-132] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-09 19:59:29,561 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 19:59:29,576 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 19:59:29,576 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 19:59:29,592 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\aula2-topicos-esp\src\test\resources
+2015-06-09 20:00:37,710 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\TESP\workspace\escola
+2015-06-09 20:00:37,726 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-09 20:02:02,626 [Worker-121] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\TESP\workspace\escola
+2015-06-09 20:02:02,626 [Worker-121] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-09 20:02:48,146 [Worker-121] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-09 20:02:48,361 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 20:02:50,748 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/main/java
+2015-06-09 20:02:50,752 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/main/resources
+2015-06-09 20:02:50,757 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/test/java
+2015-06-09 20:02:50,761 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/test/resources
+2015-06-09 20:02:51,669 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 20:02:52,891 [Worker-121] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for escola
+2015-06-09 20:02:52,907 [Worker-121] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2015-06-09 20:05:15,952 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 20:05:15,968 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:05:15,984 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:05:17,140 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:05:17,156 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:05:18,827 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:05:18,827 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 20:05:18,843 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:05:18,843 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 20:05:18,843 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of escola
+2015-06-09 20:05:18,843 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for escola
+2015-06-09 20:05:18,843 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 20:05:18,859 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 20:05:18,859 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 20:05:18,874 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 20:05:18,890 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:06:07,864 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\TESP\workspace\escola
+2015-06-09 20:06:07,864 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-09 20:07:06,998 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:07,013 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:08,172 [Worker-132] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for escola
+2015-06-09 20:07:08,188 [Worker-132] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for teste01
+2015-06-09 20:07:08,235 [Worker-132] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for teste02
+2015-06-09 20:07:08,920 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 20:07:08,952 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 20:07:08,952 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 20:07:08,967 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\aula2-topicos-esp\src\test\resources
+2015-06-09 20:07:08,983 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:07:08,999 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 20:07:09,045 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:07:09,045 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-09 20:07:09,342 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 20:07:09,374 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\teste01\src\main\resources
+2015-06-09 20:07:09,374 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 20:07:09,389 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\teste01\src\test\resources
+2015-06-09 20:07:09,702 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:07:09,702 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 20:07:09,717 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:07:09,717 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-09 20:07:10,924 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:07:10,940 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 20:07:10,940 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:07:10,940 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-09 20:07:22,672 [Worker-121] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-09 20:07:22,844 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 20:07:23,454 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-ui/4.3.7/richfaces-components-ui-4.3.7.pom
+2015-06-09 20:07:23,798 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/richfaces/ui/richfaces-components-ui/4.3.7/richfaces-components-ui-4.3.7.pom
+2015-06-09 20:07:23,798 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:24,329 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-impl/4.3.7/richfaces-core-impl-4.3.7.pom
+2015-06-09 20:07:24,641 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/richfaces/core/richfaces-core-impl/4.3.7/richfaces-core-impl-4.3.7.pom
+2015-06-09 20:07:24,641 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:26,179 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-ui/4.3.7/richfaces-components-ui-4.3.7.jar
+2015-06-09 20:07:26,665 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-impl/4.3.7/richfaces-core-impl-4.3.7.jar
+2015-06-09 20:07:26,977 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/richfaces/ui/richfaces-components-ui/4.3.7/richfaces-components-ui-4.3.7.jar
+2015-06-09 20:07:27,290 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/richfaces/core/richfaces-core-impl/4.3.7/richfaces-core-impl-4.3.7.jar
+2015-06-09 20:07:27,446 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:27,446 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:29,080 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/main/java
+2015-06-09 20:07:29,080 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/main/resources
+2015-06-09 20:07:29,080 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/test/java
+2015-06-09 20:07:29,096 [Worker-121] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/test/resources
+2015-06-09 20:07:29,804 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 20:07:30,270 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:30,270 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:31,817 [Worker-121] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for escola
+2015-06-09 20:07:31,833 [Worker-121] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2015-06-09 20:07:32,536 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.ui:richfaces-components-ui:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:32,552 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.richfaces.core:richfaces-core-impl:jar:4.3.7 is missing, no dependency information available
+2015-06-09 20:07:33,802 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:07:33,802 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 20:07:33,817 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:07:33,833 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-09 20:08:05,625 [Worker-125] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\TESP\workspace\escola
+2015-06-09 20:08:05,625 [Worker-125] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-09 20:11:12,306 [Worker-136] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-09 20:11:13,417 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-ui/4.3.7.Final/richfaces-components-ui-4.3.7.Final.pom
+2015-06-09 20:11:14,189 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-ui-parent/4.3.7.Final/richfaces-ui-parent-4.3.7.Final.pom
+2015-06-09 20:11:15,742 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/richfaces-root-parent/4.3.7.Final/richfaces-root-parent-4.3.7.Final.pom
+2015-06-09 20:11:16,524 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/richfaces-parent/13/richfaces-parent-13.pom
+2015-06-09 20:11:17,383 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/jboss-parent/8/jboss-parent-8.pom
+2015-06-09 20:11:18,024 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/shrinkwrap/shrinkwrap-bom/1.1.2/shrinkwrap-bom-1.1.2.pom
+2015-06-09 20:11:18,470 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/shrinkwrap/shrinkwrap-bom/1.1.2/shrinkwrap-bom-1.1.2.pom
+2015-06-09 20:11:18,985 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.0.0-beta-3/shrinkwrap-resolver-bom-2.0.0-beta-3.pom
+2015-06-09 20:11:19,424 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.0.0-beta-3/shrinkwrap-resolver-bom-2.0.0-beta-3.pom
+2015-06-09 20:11:19,908 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2015-06-09 20:11:20,346 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2015-06-09 20:11:20,841 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/arquillian/extension/arquillian-warp-bom/1.0.0.Alpha5/arquillian-warp-bom-1.0.0.Alpha5.pom
+2015-06-09 20:11:21,294 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/arquillian/extension/arquillian-warp-bom/1.0.0.Alpha5/arquillian-warp-bom-1.0.0.Alpha5.pom
+2015-06-09 20:11:22,224 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/arquillian/selenium/selenium-bom/2.35.0/selenium-bom-2.35.0.pom
+2015-06-09 20:11:22,667 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/arquillian/selenium/selenium-bom/2.35.0/selenium-bom-2.35.0.pom
+2015-06-09 20:11:23,815 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2015-06-09 20:11:24,364 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/arquillian/extension/arquillian-drone-bom/1.2.0.Final/arquillian-drone-bom-1.2.0.Final.pom
+2015-06-09 20:11:24,833 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/arquillian/extension/arquillian-drone-bom/1.2.0.Final/arquillian-drone-bom-1.2.0.Final.pom
+2015-06-09 20:11:25,614 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/arquillian/arquillian-bom/1.1.1.Final/arquillian-bom-1.1.1.Final.pom
+2015-06-09 20:11:26,114 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.0.0/shrinkwrap-resolver-bom-2.0.0.pom
+2015-06-09 20:11:26,583 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.0.0/shrinkwrap-resolver-bom-2.0.0.pom
+2015-06-09 20:11:27,179 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-api/4.3.7.Final/richfaces-components-api-4.3.7.Final.pom
+2015-06-09 20:11:27,632 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-api/4.3.7.Final/richfaces-components-api-4.3.7.Final.pom
+2015-06-09 20:11:28,101 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-api/4.3.7.Final/richfaces-core-api-4.3.7.Final.pom
+2015-06-09 20:11:28,538 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-api/4.3.7.Final/richfaces-core-api-4.3.7.Final.pom
+2015-06-09 20:11:29,034 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-parent/4.3.7.Final/richfaces-core-parent-4.3.7.Final.pom
+2015-06-09 20:11:29,910 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-parent/4.3.7.Final/richfaces-core-parent-4.3.7.Final.pom
+2015-06-09 20:11:30,537 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/com/google/guava/guava/13.0.1/guava-13.0.1.pom
+2015-06-09 20:11:30,880 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava/13.0.1/guava-13.0.1.pom
+2015-06-09 20:11:31,208 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava/13.0.1/guava-13.0.1.pom
+2015-06-09 20:11:32,098 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/com/google/guava/guava-parent/13.0.1/guava-parent-13.0.1.pom
+2015-06-09 20:11:32,270 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava-parent/13.0.1/guava-parent-13.0.1.pom
+2015-06-09 20:11:32,571 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava-parent/13.0.1/guava-parent-13.0.1.pom
+2015-06-09 20:11:33,290 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2015-06-09 20:11:33,807 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2015-06-09 20:11:34,572 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-impl/4.3.7.Final/richfaces-core-impl-4.3.7.Final.pom
+2015-06-09 20:11:35,166 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.pom
+2015-06-09 20:11:35,323 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.pom
+2015-06-09 20:11:35,635 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.pom
+2015-06-09 20:11:36,296 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/w3c/css/sac/1.3/sac-1.3.pom
+2015-06-09 20:11:36,452 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/w3c/css/sac/1.3/sac-1.3.pom
+2015-06-09 20:11:36,749 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/w3c/css/sac/1.3/sac-1.3.pom
+2015-06-09 20:11:38,183 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-ui/4.3.7.Final/richfaces-components-ui-4.3.7.Final.jar
+2015-06-09 20:12:37,044 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-ui/4.3.7.Final/richfaces-components-ui-4.3.7.Final.jar
+2015-06-09 20:12:37,262 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-api/4.3.7.Final/richfaces-components-api-4.3.7.Final.jar
+2015-06-09 20:12:38,308 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/ui/richfaces-components-api/4.3.7.Final/richfaces-components-api-4.3.7.Final.jar
+2015-06-09 20:12:38,527 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-api/4.3.7.Final/richfaces-core-api-4.3.7.Final.jar
+2015-06-09 20:12:40,277 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-api/4.3.7.Final/richfaces-core-api-4.3.7.Final.jar
+2015-06-09 20:12:40,480 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-impl/4.3.7.Final/richfaces-core-impl-4.3.7.Final.jar
+2015-06-09 20:12:44,962 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/richfaces/core/richfaces-core-impl/4.3.7.Final/richfaces-core-impl-4.3.7.Final.jar
+2015-06-09 20:12:45,181 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.jar
+2015-06-09 20:12:46,009 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/w3c/css/sac/1.3/sac-1.3.jar
+2015-06-09 20:12:46,737 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/com/google/guava/guava/13.0.1/guava-13.0.1.jar
+2015-06-09 20:12:47,373 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.jar
+2015-06-09 20:12:50,678 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.jar
+2015-06-09 20:12:50,835 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/w3c/css/sac/1.3/sac-1.3.jar
+2015-06-09 20:12:51,292 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/w3c/css/sac/1.3/sac-1.3.jar
+2015-06-09 20:12:51,451 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava/13.0.1/guava-13.0.1.jar
+2015-06-09 20:13:08,951 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava/13.0.1/guava-13.0.1.jar
+2015-06-09 20:13:13,001 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:13:13,001 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 20:13:13,001 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:13:13,001 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 20:13:13,017 [Worker-136] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of escola
+2015-06-09 20:13:13,017 [Worker-136] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for escola
+2015-06-09 20:13:13,017 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 20:13:13,034 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 20:13:13,041 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 is missing, no dependency information available
+2015-06-09 20:13:13,049 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.0.CR1 or one of its dependencies could not be resolved: Cannot access jboss-public-repository (http://repository.jboss.org/nexus/content/groups/public) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.0.CR1 has not been downloaded from it before.
+2015-06-09 20:13:13,066 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:13:17,498 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:13:17,498 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-09 20:13:17,513 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:13:17,513 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-09 20:13:17,608 [Worker-135] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\TESP\workspace\escola
+2015-06-09 20:13:17,612 [Worker-135] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-09 20:13:47,619 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:13:47,619 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-09 20:13:47,635 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-09 20:13:47,635 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 09:09:53,884 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-14 09:09:53,900 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 09:09:53,916 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-14 09:09:53,916 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\aula2-topicos-esp\src\test\resources
+2015-06-14 09:09:59,729 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-14 09:10:04,134 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:10:04,134 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 09:10:04,181 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:10:04,181 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-14 09:10:13,399 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-14 09:10:13,399 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\teste01\src\main\resources
+2015-06-14 09:10:13,399 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-14 09:10:13,399 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\teste01\src\test\resources
+2015-06-14 09:10:14,445 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:10:14,445 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 09:10:14,477 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:10:14,492 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-14 09:14:22,490 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:14:22,506 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 09:14:22,506 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:14:22,506 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 09:15:40,699 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:15:40,699 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 09:15:40,699 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:15:40,715 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 09:20:53,093 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:20:53,093 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 09:20:53,093 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:20:53,109 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 09:27:16,137 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:27:16,152 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 09:27:16,152 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:27:16,152 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 09:29:41,421 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:29:41,421 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 09:29:41,421 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 09:29:41,421 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 10:08:43,382 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:08:43,382 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 10:08:43,382 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:08:43,398 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 10:10:59,634 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:10:59,634 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 10:10:59,650 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:10:59,650 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 10:15:25,183 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:15:25,183 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 10:15:25,199 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:15:25,199 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 10:17:05,669 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:17:05,669 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 10:17:05,669 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:17:05,669 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 10:17:49,920 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:17:49,920 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 10:17:49,920 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 10:17:49,935 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 14:27:09,653 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 14:27:09,653 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 14:27:09,653 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 14:27:09,653 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 14:29:53,548 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 14:29:53,548 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 14:29:53,548 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 14:29:53,564 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 14:43:01,239 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 14:43:01,239 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 14:43:01,239 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 14:43:01,255 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 15:12:56,920 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:12:56,920 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 15:12:56,936 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:12:56,936 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 15:13:02,904 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:13:02,904 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 15:13:02,904 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:13:02,904 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 15:13:16,108 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:13:16,108 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 15:13:16,123 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:13:16,123 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 15:14:00,640 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:14:00,640 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 15:14:00,640 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:14:00,640 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 15:15:16,811 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:15:16,827 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 15:15:16,827 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:15:16,827 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-14 15:15:26,421 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:15:26,421 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-14 15:15:26,421 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-14 15:15:26,421 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-15 19:18:11,173 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-15 19:18:11,187 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-15 19:18:11,212 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-15 19:18:11,214 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-15 19:18:12,943 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-15 19:18:12,966 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\teste01\src\main\resources
+2015-06-15 19:18:12,969 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-15 19:18:12,975 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\teste01\src\test\resources
+2015-06-15 19:18:14,834 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-15 19:18:14,885 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-15 19:18:14,907 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-15 19:18:14,909 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-15 19:29:51,061 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-15 19:29:51,088 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-15 19:29:51,091 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-15 19:29:51,091 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 19:34:15,251 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:34:15,251 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-16 19:34:15,255 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:34:15,255 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 19:38:28,089 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:38:28,089 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-16 19:38:28,104 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:38:28,104 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 19:41:18,705 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:41:18,705 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 19:41:18,705 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:41:18,705 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 19:41:25,352 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:41:25,352 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 19:41:25,352 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:41:25,352 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 19:46:21,800 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-16 19:46:27,205 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:46:27,205 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-16 19:46:27,229 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:46:27,233 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-16 19:47:08,304 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ C:\TESP\workspace\escola\pom.xml.
+2015-06-16 19:47:10,756 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:47:10,760 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-16 19:47:10,776 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:47:10,776 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-16 19:58:35,553 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:58:35,569 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-16 19:58:35,569 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 19:58:35,585 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 20:22:32,374 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 20:22:32,374 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-16 20:22:32,386 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 20:22:32,390 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 20:30:25,152 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 20:30:25,168 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-16 20:30:25,168 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 20:30:25,168 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 20:34:06,404 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 20:34:06,404 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-16 20:34:06,420 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 20:34:06,420 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-16 20:39:12,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 20:39:12,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-16 20:39:12,677 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-16 20:39:12,677 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-19 20:55:39,449 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-19 20:55:39,525 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-19 20:55:39,571 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-19 20:55:39,572 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-19 20:55:41,560 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-19 20:55:41,588 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\teste01\src\main\resources
+2015-06-19 20:55:41,612 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-19 20:55:41,648 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TESP\workspace\teste01\src\test\resources
+2015-06-19 20:55:43,382 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-19 20:55:43,386 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-06-19 20:55:43,390 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-19 20:55:43,390 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

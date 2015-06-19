@@ -69,3 +69,171 @@
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-08 22:17:28.945
 !MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-09 19:16:37.166
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-09 19:16:37.864
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-09 19:16:48.180
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-09 19:16:53.832
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-09 19:17:23.093
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-09 19:17:23.807
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-09 19:17:54.819
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-09 19:17:58.310
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-09 19:50:30.594
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 19:50:30.594
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\ui\richfaces-components-ui\4.3.7\richfaces-components-ui-4.3.7.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 19:50:30.594
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\core\richfaces-core-impl\4.3.7\richfaces-core-impl-4.3.7.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-09 19:51:56.537
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 19:51:56.537
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\ui\richfaces-components-ui\4.3.7\richfaces-components-ui-4.3.7.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 19:51:56.537
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\core\richfaces-core-impl\4.3.7\richfaces-core-impl-4.3.7.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-09 20:05:20.172
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:05:20.172
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\ui\richfaces-components-ui\4.3.7\richfaces-components-ui-4.3.7.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:05:20.172
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\core\richfaces-core-impl\4.3.7\richfaces-core-impl-4.3.7.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-09 20:07:10.249
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:10.249
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\ui\richfaces-components-ui\4.3.7\richfaces-components-ui-4.3.7.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:10.249
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\core\richfaces-core-impl\4.3.7\richfaces-core-impl-4.3.7.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-09 20:07:34.928
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\controller\MemberRegistration.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\data\MemberListProducer.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\entidades\Aluno.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\entidades\Pessoa.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\entidades\Professor.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\model\Member.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\negocio\DAO.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\negocio\ServicoAluno.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\negocio\ServicoPessoa.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\negocio\ServicoProfessor.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\rest\JaxRsActivator.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\rest\MemberResourceRESTService.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Could not delete C:\TESP\jboss-eap-6.3\standalone\deployments\escola.war\WEB-INF\classes\br\unibh\escola\util\Resources.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\ui\richfaces-components-ui\4.3.7\richfaces-components-ui-4.3.7.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-09 20:07:34.928
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\richfaces\core\richfaces-core-impl\4.3.7\richfaces-core-impl-4.3.7.jar
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-14 10:28:48.745
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-14 10:29:03.999
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-16 19:44:17.726
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-16 19:44:34.644
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-16 19:47:55.967
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-16 19:47:56.665
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-16 19:48:11.983
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-16 19:48:16.203
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-16 20:07:32.243
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-16 20:07:43.390
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-16 20:07:47.975
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-16 20:22:44.547
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-16 20:22:45.284
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-16 20:23:00.974
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-16 20:23:05.608
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-16 20:30:30.594
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-16 20:30:31.277
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-16 20:30:38.332
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-16 20:30:42.394
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-16 20:35:02.686
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-16 20:35:03.377
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-16 20:35:43.830
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-16 20:35:48.498
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-16 20:37:21.629
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-16 20:37:22.341
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-16 20:39:34.467
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-16 20:39:39.075
+!MESSAGE Server Startup Succeeded

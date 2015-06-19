@@ -13,6 +13,10 @@ public class Professor extends Pessoa {
 	private BigDecimal salario;
 	public static Double Bonus = 0.1D;
 
+	public Professor(){
+		super(null, null, null);
+	}
+	
 	public Professor(Long id, String nome, String cpf, BigDecimal salario) {
 		super(id, nome, cpf);
 		this.salario = salario;

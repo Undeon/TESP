@@ -4,22 +4,36 @@ import java.util.Date;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
+import javax.persistence.Table;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
+import javax.persistence.UniqueConstraint;
 import javax.persistence.PrimaryKeyJoinColumn;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 
 @Entity
-@Table(name="TB_ALUNO")
+@Table(name="TB_ALUNO", uniqueConstraints = @UniqueConstraint(columnNames = "matricula"))
+@NamedQueries({@NamedQuery(name="Aluno.findbyName", query = "select a from Aluno a where a.nome like :nome)")})
 @PrimaryKeyJoinColumn
 
 public class Aluno extends Pessoa {
 
-	@Column(name="matricula", unique=true)
 	@NotNull
+	@Column(name="MATRICULA", unique=true, nullable=false)
 	private Long matricula;
-
+	
+	@NotNull
+	@Temporal(TemporalType.DATE)
+	@Column(name="DATA_ANIVERSARIO", nullable=false, columnDefinition="DATE")
 	private Date dataAniversario;
 
+	public Aluno() {
+		super(null, null, null);
+	}
+	
 	public Aluno(Long id, Long matricula, String nome, String cpf, Date dataAniversario) {
 		super(id, nome, cpf);
 		this.matricula = matricula;
