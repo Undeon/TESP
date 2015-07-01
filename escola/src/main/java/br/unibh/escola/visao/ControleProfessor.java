@@ -2,32 +2,31 @@ package br.unibh.escola.visao;
 
 import java.util.List;
 import java.util.logging.Logger;
+
 import javax.annotation.PostConstruct;
 import javax.faces.application.FacesMessage;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
 import javax.faces.context.FacesContext;
 import javax.inject.Inject;
+
 import br.unibh.escola.entidades.Professor;
 import br.unibh.escola.negocio.ServicoProfessor;
 
-@ManagedBean(name = "professormb")
+@ManagedBean(name = "professorMb")
 @ViewScoped
 public class ControleProfessor {
+
+	@Inject
+	ServicoProfessor sp;
+
 	@Inject
 	private Logger log;
 
-	@Inject
-	private ServicoProfessor sa;
-	
 	private Professor professor;
-	private String nomeArg;
 	private Long id;
+	private String nomeArg; // pesquisa por nome
 	private List<Professor> professores;
-
-	public Professor getProfessor() {
-		return professor;
-	}
 
 	public String getNomeArg() {
 		return nomeArg;
@@ -45,43 +44,53 @@ public class ControleProfessor {
 		this.id = id;
 	}
 
-	public List<Professor> getprofessores() {
+	public Professor getProfessor() {
+		return professor;
+	}
+
+	public List<Professor> getProfessores() {
 		return professores;
 	}
 
 	@PostConstruct
-	public void inicializaLista() {
-		log.info("Executando o MB de Professor");
+	public void inicializa() {
+		log.info("Executa o MB de professor");
 		try {
-			professores = sa.findAll();
+			professores = sp.findAll();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
 
-	public void gravar() {
+	public String gravar() {
+
 		FacesMessage facesMsg;
 		try {
 			if (professor.getId() == null) {
-				professor = sa.insert(professor);
+				professor = sp.insert(professor);
 			} else {
-				professor = sa.update(professor);
+				professor = sp.update(professor);
 			}
 		} catch (Exception e) {
 			facesMsg = new FacesMessage(FacesMessage.SEVERITY_ERROR, "Erro: "
 					+ e.getMessage(), "");
+
 			FacesContext.getCurrentInstance().addMessage("messagePanel",
 					facesMsg);
-			return;
+			return "professor";
 		}
 		facesMsg = new FacesMessage(FacesMessage.SEVERITY_INFO,
-				"Professor gravado com sucesso!", "");
+				"Professor " + professor.getNome() + " gravado com sucesso!",
+				"");
+
 		FacesContext.getCurrentInstance().addMessage("messagePanel", facesMsg);
+
+		return "professor";
 	}
 
 	public void pesquisar() {
 		try {
-			professores = sa.findByName(nomeArg);
+			professores = sp.findByName(nomeArg);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -97,20 +106,20 @@ public class ControleProfessor {
 
 	public void editar() {
 		try {
-			professor = sa.find(id);
+			professor = sp.find(id);
 			return;
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		professor = null;
 	}
 
 	public void excluir() {
 		try {
-			sa.delete(sa.find(id));
+			sp.Delete(sp.find(id));
+			professores = sp.findAll();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		professor = null;
 	}
+
 }

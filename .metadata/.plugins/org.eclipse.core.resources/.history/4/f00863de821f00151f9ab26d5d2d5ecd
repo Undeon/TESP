@@ -1,0 +1,88 @@
+--><span=class\="path-divider">/</span><\!--
+--><strong><a=href\="/tuxpedro/TESP" data-pjax\="\#js-repo-pjax-container">TESP</a></strong>
+0=
+0.43=kB
+1=
+9=lines (8 sloc)
+<\!--=blob contrib key\: blob_contributors\:v21\:a771f3406736dd602ebaae58761826df -->
+<\!DOCTYPE=html>
+</a>=
+</body>=
+</button>=
+</div>=
+</div><\!--=/.wrapper -->
+</form>=
+</form></div>=
+</h1>=
+</head>=
+</html>=
+</include-fragment>=
+</label>=
+</li>=
+</nav>=
+</span>=
+</table>=
+</tr>=
+</ul>=
+<a=href\="\#" class\="octicon octicon-x flash-close js-ajax-error-dismiss" aria-label\="Dismiss error"></a>
+<body=class\="logged_out  env-production windows vis-public page-blob">
+<button=type\="submit" class\="btn">Go</button>
+<div=id\="ajax-error-message" class\="flash flash-error">
+<form=accept-charset\="UTF-8" action\="" class\="js-jump-to-line-form" method\="get"><div style\="margin\:0;padding\:0;display\:inline"><input name\="utf8" type\="hidden" value\="&\#x2713;" /></div>
+<h1=itemscope itemtype\="http\://data-vocabulary.org/Breadcrumb" class\="entry-title public">
+<h3><span=class\="text-emphasized">Subversion</span> checkout URL</h3>
+<head=prefix\="og\: http\://ogp.me/ns\# fb\: http\://ogp.me/ns/fb\# object\: http\://ogp.me/ns/object\# article\: http\://ogp.me/ns/article\# profile\: http\://ogp.me/ns/profile\#">
+<html=lang\="en" class\=" is-copy-enabled">
+<i>branch=</i>
+<img=alt\="" class\="mini-loader" height\="16" src\="https\://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width\="16" />
+<include-fragment=class\="commit commit-loader file-history-tease" src\="/tuxpedro/TESP/contributors/master/escola/.settings/org.eclipse.jdt.core.prefs">
+<input=class\="linejump-input js-jump-to-line-field" type\="text" placeholder\="Jump to line&hellip;" autofocus>
+<label=class\="js-chromeless-input-container form-control">
+<li=class\="select-menu-tab">
+<li>=
+<li>&copy;=2015 <span title\="0.05290s from github-fe122-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+<li><a=href\="https\://github.com/contact" data-ga-click\="Footer, go to contact, text\:contact">Contact</a></li>
+<link=href\="https\://github.com/tuxpedro/TESP/commits/master.atom" rel\="alternate" title\="Recent Commits to TESP\:master" type\="application/atom+xml">
+<meta=content\="9454256" name\="octolytics-dimension-user_id" /><meta content\="tuxpedro" name\="octolytics-dimension-user_login" /><meta content\="35506126" name\="octolytics-dimension-repository_id" /><meta content\="tuxpedro/TESP" name\="octolytics-dimension-repository_nwo" /><meta content\="true" name\="octolytics-dimension-repository_public" /><meta content\="false" name\="octolytics-dimension-repository_is_fork" /><meta content\="35506126" name\="octolytics-dimension-repository_network_root_id" /><meta content\="tuxpedro/TESP" name\="octolytics-dimension-repository_network_root_nwo" />
+<nav=class\="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
+<p=class\="loader-error">Cannot retrieve contributors at this time</p>
+<script=async\="async" crossorigin\="anonymous" src\="https\://assets-cdn.github.com/assets/github/index-fc623ef567f560fae731edbed8cee8fef56525e1388805dd11a6940236915618.js"></script>
+<span=class\="octicon octicon-alert"></span>
+<table=class\="highlight tab-size js-file-line-container" data-tab-size\="8">
+<td=id\="LC8" class\="blob-code blob-code-inner js-file-line"><span class\="pl-k">org.eclipse.jdt.core.compiler.source</span>\=1.6</td>
+<textarea=name\="fullscreen-contents" id\="fullscreen-contents" class\="fullscreen-contents js-fullscreen-contents" placeholder\=""></textarea>
+<title>TESP/org.eclipse.jdt.core.prefs=at master \u00C2\u00B7 tuxpedro/TESP \u00C2\u00B7 GitHub</title>
+<tr>=
+<ul=class\="site-footer-links">
+<ul>=
+Clone=in Desktop
+Download=ZIP
+Fetching=contributors&hellip;
+Fork=
+Something=went wrong with that request. Please try again.
+Star=
+Watch=
+aria-label="Switch themes">
+autocapitalize="off">
+class="js-show-file-finder btn btn-sm empty-icon tooltipped tooltipped-s"
+data-ga-click="Repository, open with desktop, type\:windows">
+data-global-scope-placeholder="Search GitHub"
+data-hotkey="t"
+data-issue-count-url="/tuxpedro/TESP/issues/counts">
+data-name="master"
+data-pjax=
+data-protocol-type="subversion">
+data-ref="master"
+data-repo-scope-placeholder="Search"
+data-skip-pjax="true"
+eclipse.preferences.version=1
+href="https\://windows.github.com"
+master=
+name="q"
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
+placeholder="Search"
+rel="nofollow">
+role="button" aria-label\="Switch branches or tags" tabindex\="0" aria-haspopup\="true">
+tabindex="1"
+title="master"
+value="https\://github.com/tuxpedro/TESP" readonly\="readonly">

@@ -1,51 +1,90 @@
 package br.unibh.escola.negocio;
+
 import java.util.List;
 import java.util.logging.Logger;
+
 import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
+
 import br.unibh.escola.entidades.Aluno;
+import br.unibh.escola.entidades.Disciplina;
+import br.unibh.escola.entidades.Professor;
+import br.unibh.escola.entidades.Sala;
+
 @Stateless
 @LocalBean
 public class ServicoAluno implements DAO<Aluno, Long> {
 	@Inject
 	EntityManager em;
+
 	@Inject
 	private Logger log;
+
 	@Override
 	public Aluno insert(Aluno t) throws Exception {
-		log.info("Persistindo "+t);
+		log.info("Persistindo " + t);
 		em.persist(t);
 		return t;
 	}
+
 	@Override
 	public Aluno update(Aluno t) throws Exception {
-		log.info("Atualizando "+t);
+		log.info("Atualizando " + t);
 		return em.merge(t);
 	}
+
 	@Override
 	public void delete(Aluno t) throws Exception {
-		log.info("Removendo "+t);
+		log.info("Removendo " + t);
 		Object c = em.merge(t);
 		em.remove(c);
 	}
+
 	@Override
 	public Aluno find(Long k) throws Exception {
-		log.info("Encontrando aluno "+k);
+		log.info("Encontrando aluno " + k);
 		return em.find(Aluno.class, k);
 	}
+
 	@SuppressWarnings("unchecked")
 	@Override
 	public List<Aluno> findAll() throws Exception {
 		log.info("Encontrando todos os alunos");
 		return em.createQuery("from Aluno").getResultList();
 	}
+
 	@SuppressWarnings("unchecked")
 	@Override
 	public List<Aluno> findByName(String name) throws Exception {
-		log.info("Encontrando alunos "+name);
+		log.info("Encontrando alunos " + name);
 		return em.createNamedQuery("Aluno.findByName")
-				.setParameter("nome", name+"%").getResultList();
+				.setParameter("nome", name + "%").getResultList();
 	}
+
+	@Override
+	public void Delete(Professor professor) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void Delete(Aluno aluno) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void Delete(Sala t) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void Delete(Disciplina t) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

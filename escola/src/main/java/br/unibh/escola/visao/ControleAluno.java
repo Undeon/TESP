@@ -16,18 +16,17 @@ import br.unibh.escola.negocio.ServicoAluno;
 @ManagedBean(name = "alunomb")
 @ViewScoped
 public class ControleAluno {
+
 	@Inject
 	private Logger log;
+
 	@Inject
 	private ServicoAluno sa;
+
 	private Aluno aluno;
 	private String nomeArg;
 	private Long id;
 	private List<Aluno> alunoes;
-
-	public Aluno getAluno() {
-		return aluno;
-	}
 
 	public String getNomeArg() {
 		return nomeArg;
@@ -45,21 +44,21 @@ public class ControleAluno {
 		this.id = id;
 	}
 
+	public Aluno getAluno() {
+		return aluno;
+	}
+
 	public List<Aluno> getAlunoes() {
 		return alunoes;
 	}
 
 	@PostConstruct
-	public void inicializaLista() {
-		log.info("Executando o MB de Aluno");
-		try {
-			alunoes = sa.findAll();
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+	public void inicializaLista() throws Exception {
+		log.info("Executa o MB de aluno");
+		alunoes = sa.findAll();
 	}
 
-	public void gravar() {
+	public String gravar() {
 		FacesMessage facesMsg;
 		try {
 			if (aluno.getId() == null) {
@@ -68,15 +67,19 @@ public class ControleAluno {
 				aluno = sa.update(aluno);
 			}
 		} catch (Exception e) {
-			facesMsg = new FacesMessage(FacesMessage.SEVERITY_ERROR, "Erro:"
+			facesMsg = new FacesMessage(FacesMessage.SEVERITY_ERROR, "Erro: "
 					+ e.getMessage(), "");
+
 			FacesContext.getCurrentInstance().addMessage("messagePanel",
 					facesMsg);
-			return;
+			return " ";
 		}
 		facesMsg = new FacesMessage(FacesMessage.SEVERITY_INFO,
-				"Aluno gravado com sucesso!", "");
+				"Aluno Gravado com sucesso!", "");
+
 		FacesContext.getCurrentInstance().addMessage("messagePanel", facesMsg);
+
+		return "aluno";
 	}
 
 	public void pesquisar() {
@@ -107,10 +110,12 @@ public class ControleAluno {
 
 	public void excluir() {
 		try {
-			sa.delete(sa.find(id));
+			sa.Delete(sa.find(id));
+			alunoes = sa.findAll();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		aluno = null;
 	}
+
 }

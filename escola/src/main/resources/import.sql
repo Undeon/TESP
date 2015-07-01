@@ -1,142 +1,52 @@
--- phpMyAdmin SQL Dump
--- version 4.1.12
--- http://www.phpmyadmin.net
---
--- Host: 127.0.0.1
--- Generation Time: 20-Maio-2015 às 00:56
--- Versão do servidor: 5.6.16
--- PHP Version: 5.5.11
+-- You can use this file to load seed data into the database using SQL statements
+insert into Member (id, name, email, phone_number) values (0, 'John Smith', 'john.smith@mailinator.com', '2125551212') 
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET time_zone = "+00:00";
+-- insert pessoas
+INSERT INTO TB_PESSOA (ID, CPF, NOME, VERSAO) VALUES(1, '860.518.214-81', 'JOAO BAURETE', 0);
+INSERT INTO TB_PESSOA (ID, CPF, NOME, VERSAO) VALUES(2, '637.456.259-35', 'TIAO BAURETE', 0);
+INSERT INTO TB_PESSOA (ID, CPF, NOME, VERSAO) VALUES(3,'377.914.546-45', 'MARISA BAURETE', 0);
+INSERT INTO TB_PESSOA (ID, CPF, NOME, VERSAO) VALUES(4, '760.318.274-91', 'CARLOS BAURETE', 0);
+INSERT INTO TB_PESSOA (ID, CPF, NOME, VERSAO) VALUES(5, '537.156.289-25', 'JACOBIS BAURETE', 0);
+INSERT INTO TB_PESSOA (ID, CPF, NOME, VERSAO) VALUES(6, '277.314.526-05', 'JIM BAURETE', 0);
+
+-- insert alunos
+INSERT INTO TB_ALUNO (DATA_ANIVERSARIO, MATRICULA, ID) VALUES('1990-05-09', '11213643', 1);
+INSERT INTO TB_ALUNO (DATA_ANIVERSARIO, MATRICULA, ID) VALUES('1993-12-15', '11213645', 2);
+INSERT INTO TB_ALUNO (DATA_ANIVERSARIO, MATRICULA, ID) VALUES('1991-08-21', '11213647', 3);
+
+-- insert professores
+INSERT INTO TB_PROFESSOR (SALARIO, ID) VALUES (10252.22, 4);
+INSERT INTO TB_PROFESSOR (SALARIO, ID) VALUES (9252.73, 5);
+INSERT INTO TB_PROFESSOR (SALARIO, ID) VALUES (6252.20, 6);
+
+--insert salas
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO) 
+VALUES (2,10,100,"2015-05-30","Phasellus elit pede, malesuada vel, venenatis vel, faucibus id, libero.",0,1,1,1,0);
+
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO) 
+VALUES (3,20,101,"2015-06-06","augue. Sed molestie. Sed id risus quis diam luctus lobortis.",0,1,1,1,0);
 
 
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO) 
+VALUES (4,30,102,"2015-05-02","nec quam. Curabitur vel lectus. Cum sociis natoque penatibus et",0,1,1,1,0);
 
---
--- Database: `escola`
---
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO) 
+VALUES (5,40,103,"2015-05-26","lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie.",0,1,1,1,0);
 
--- --------------------------------------------------------
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO) 
+VALUES (6,50,104,"2015-05-19","odio. Nam interdum enim non nisi. Aenean eget metus. In",0,1,1,1,0);
 
---
--- Estrutura da tabela `hibernate_sequence`
---
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO) 
+VALUES (7,60,105,"2015-05-30","velit eu sem. Pellentesque ut ipsum ac mi eleifend egestas.",0,1,1,1,0);
 
-CREATE TABLE IF NOT EXISTS `hibernate_sequence` (
-  `next_val` bigint(20) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO) 
+VALUES (8,70,106,"2015-05-31","urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus",0,1,1,1,0);
 
---
--- Extraindo dados da tabela `hibernate_sequence`
---
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO)
+VALUES (9,80,107,"2015-06-11","magna a neque. Nullam ut nisi a odio semper cursus.",0,1,1,1,0);
 
-INSERT INTO `hibernate_sequence` (`next_val`) VALUES
-(1);
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO) 
+VALUES (10,90,108,"2015-05-29","arcu. Aliquam ultrices iaculis odio. Nam interdum enim non nisi.",0,1,1,1,0);
 
--- --------------------------------------------------------
-
---
--- Estrutura da tabela `member`
---
-
-CREATE TABLE IF NOT EXISTS `member` (
-  `id` bigint(20) NOT NULL,
-  `email` varchar(255) NOT NULL,
-  `name` varchar(25) NOT NULL,
-  `phone_number` varchar(12) NOT NULL,
-  PRIMARY KEY (`id`),
-  UNIQUE KEY `UK_9qv6yhjqm8iafto8qk452gx8h` (`email`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
--- --------------------------------------------------------
-
---
--- Estrutura da tabela `tb_pessoa`
---
-
-CREATE TABLE IF NOT EXISTS `tb_pessoa` (
-  `ID` bigint(20) NOT NULL AUTO_INCREMENT,
-  `CPF` char(14) NOT NULL,
-  `nome` varchar(100) NOT NULL,
-  PRIMARY KEY (`ID`),
-  UNIQUE KEY `UK_29q61rpxcuh0xf0p4xe8r3ae` (`CPF`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
-
---
--- Extraindo dados da tabela `tb_pessoa`
---
-
-INSERT INTO `tb_pessoa` (`ID`, `CPF`, `nome`) VALUES
-(1, '444.444.444-44', 'Gabriel Jacobis'),
-(2, '111.111.111-11', 'ANTONIO SILVA'),
-(3, '123.456.789-10', 'Daniel Fonseca'),
-(4, '147.258.369-79', 'Ze da Esquina'),
-(5, '987.645.321-74', 'Jao do Acougue'),
-(6, '734.915.468-22', 'Zin Zicado');
-
--- --------------------------------------------------------
-
---
--- Estrutura da tabela `tb_aluno`
---
-
-CREATE TABLE IF NOT EXISTS `tb_aluno` (
-  `DATA_ANIVERSARIO` date NOT NULL,
-  `MATRICULA` bigint(20) NOT NULL,
-  `ID` bigint(20) NOT NULL,
-  PRIMARY KEY (`ID`),
-  UNIQUE KEY `UK_bb5i9txqriuho8qfrojvhq7wl` (`MATRICULA`),
-  KEY `FK_6rfemk1ppmaoxx9ph1pqdb1e2` (`ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Extraindo dados da tabela `tb_aluno`
---
-
-INSERT INTO `tb_aluno` (`DATA_ANIVERSARIO`, `MATRICULA`, `ID`) VALUES
-('2015-05-04', 44444, 1),
-('1970-09-12', 12567, 2),
-('1985-12-18', 12345, 3);
-
--- --------------------------------------------------------
-
---
--- Estrutura da tabela `tb_professor`
---
-
-CREATE TABLE IF NOT EXISTS `tb_professor` (
-  `SALARIO` decimal(19,2) NOT NULL,
-  `ID` bigint(20) NOT NULL,
-  PRIMARY KEY (`ID`),
-  KEY `FK_bvnnxbfl8oni0xih7dp0urel6` (`ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Extraindo dados da tabela `tb_professor`
---
-
-INSERT INTO `tb_professor` (`SALARIO`, `ID`) VALUES ('5000.00', 4),('7500.00', 5),('10000.00', 6);
-
---
--- Constraints for dumped tables
---
-
---
--- Limitadores para a tabela `tb_aluno`
---
-ALTER TABLE `tb_aluno`
-  ADD CONSTRAINT `FK_6rfemk1ppmaoxx9ph1pqdb1e2` FOREIGN KEY (`ID`) REFERENCES `tb_pessoa` (`ID`);
-
---
--- Limitadores para a tabela `tb_professor`
---
-ALTER TABLE `tb_professor`
-  ADD CONSTRAINT `FK_bvnnxbfl8oni0xih7dp0urel6` FOREIGN KEY (`ID`) REFERENCES `tb_pessoa` (`ID`);
-
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+INSERT INTO TB_SALA (ID,CAPACIDADE,CODIGO,DATATERMINOMANUTENCAO,OBSERVACAO,POSSUICOMPUTADOR,POSSUIDATASHOW,POSSUIQUADROBRANCO,STATUS,VERSAO) 
+VALUES (11,100,109,"2015-05-22","porttitor tellus non magna. Nam ligula elit, pretium et, rutrum",0,1,1,1,0);

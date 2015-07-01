@@ -237,3 +237,902 @@
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-16 20:39:39.075
 !MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 21:19:53.213
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-06-29 21:20:15.588
+!MESSAGE Module escola on JBoss Enterprise Application Platform 6.1+ not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 21:20:15.592
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-06-29 21:20:35.638
+!MESSAGE Module escola on JBoss Enterprise Application Platform 6.1+ still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-29 21:26:40.780
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 16842768 2015-06-29 21:26:41.838
+!MESSAGE Poll Thread Aborted: null
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-29 21:26:41.842
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 21:26:53.948
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 21:26:59.155
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 22:13:07.118
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-29 22:13:09.149
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 22:13:32.972
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 22:13:37.645
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-29 22:18:57.454
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-29 22:18:57.946
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 22:19:48.536
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 22:19:52.684
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-29 22:24:18.927
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-29 22:24:19.276
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 22:24:23.252
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 22:24:27.399
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-29 22:37:00.580
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-29 22:37:01.551
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 22:37:02.598
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 22:37:06.767
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-29 22:40:06.863
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-29 22:40:07.397
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 16842768 2015-06-29 22:40:07.413
+!MESSAGE Poll Thread Aborted: null
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 22:40:08.938
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 22:40:13.556
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-29 22:40:25.804
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 22:40:33.373
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 22:40:37.548
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 23:44:27.496
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 23:44:41.762
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-29 23:54:46.467
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-29 23:54:47.083
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 23:55:15.331
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 23:55:19.960
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-29 23:57:53.432
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-29 23:57:54.006
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-29 23:58:04.970
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-29 23:58:09.102
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 18:53:32.522
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 18:53:32.979
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 18:53:42.092
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 18:53:46.187
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 19:04:22.780
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 19:04:23.385
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 19:04:31.774
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 19:04:43.788
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 19:05:46.675
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 19:05:47.600
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 19:06:02.724
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 19:06:06.765
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 19:11:36.217
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 19:11:37.231
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 19:12:02.613
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 19:12:06.755
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 19:21:30.190
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 19:21:30.674
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 19:21:50.107
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 19:21:55.216
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 19:24:40.556
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 19:24:41.528
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 19:24:50.310
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 19:24:55.008
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 19:25:03.023
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 19:25:03.505
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 19:25:22.383
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 19:25:26.522
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:10:38.169
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:38.169
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:38.169
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:38.169
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:38.169
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:38.169
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:38.169
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:38.169
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:38.169
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:10:42.316
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:42.316
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:42.316
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:42.316
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:42.316
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:42.316
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:42.316
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:42.316
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:10:42.316
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 20:11:05.957
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 20:11:06.453
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:11:19.653
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:19.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:19.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:19.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:19.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:19.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:19.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:19.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:19.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:11:36.315
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:36.315
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:36.315
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:36.315
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:36.315
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:36.315
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:36.315
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:36.315
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:11:36.315
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:12:47.618
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:12:47.618
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:12:47.618
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:12:47.618
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:12:47.618
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:12:47.618
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:12:47.618
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:12:47.618
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:12:47.618
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:12:48.680
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:12:53.222
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:15:56.749
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:15:56.749
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:15:56.749
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:15:56.749
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:15:56.749
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:15:56.749
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:15:56.749
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:15:56.749
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:15:56.749
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:16:06.653
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:06.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:06.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:06.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:06.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:06.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:06.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:06.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:06.653
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 20:16:24.451
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 20:16:25.032
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:16:32.193
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:32.193
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:32.193
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:32.193
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:32.193
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:32.193
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:32.193
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:32.193
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:32.193
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:16:45.960
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:45.960
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:45.960
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:45.960
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:45.960
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:45.960
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:45.960
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:45.960
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:45.960
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:16:52.394
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:52.394
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:52.394
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:52.394
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:52.394
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:52.394
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:52.394
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:52.394
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:52.394
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:16:58.285
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:58.285
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:58.285
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:58.285
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:58.285
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:58.285
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:58.285
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:58.285
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:16:58.285
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:16:59.333
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:17:04.355
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 20:25:38.185
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 20:25:39.013
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:26:07.114
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:07.114
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:07.114
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:07.114
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:07.114
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:07.114
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:07.114
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:07.114
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:07.114
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:26:14.264
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:14.264
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:14.264
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:14.264
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:14.264
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:14.264
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:14.264
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:14.264
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:14.264
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:26:19.279
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:19.279
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:19.279
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:19.279
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:19.279
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:19.279
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:19.279
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:19.279
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:26:19.279
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:26:20.351
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:26:25.152
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:29:59.032
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:29:59.032
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:29:59.032
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:29:59.032
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:29:59.032
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:29:59.032
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:29:59.032
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:29:59.032
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:29:59.032
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:30:30.853
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:30.853
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:30.853
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:30.853
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:30.853
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:30.853
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:30.853
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:30.853
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:30.853
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 20:30:33.175
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 20:30:33.727
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:30:50.873
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:50.873
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:50.873
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:50.873
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:50.873
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:50.873
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:50.873
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:50.873
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:30:50.873
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:31:00.247
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:00.247
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:00.247
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:00.247
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:00.247
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:00.247
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:00.247
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:00.247
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:00.247
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:31:06.382
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:06.382
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:06.382
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:06.382
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:06.382
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:06.382
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:06.382
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:06.382
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:06.382
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:31:12.573
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:12.573
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:12.573
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:12.573
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:12.573
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:12.573
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:12.573
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:12.573
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:31:12.573
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:31:13.623
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:31:18.171
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:32:49.864
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:32:49.864
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:32:49.864
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:32:49.864
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:32:49.864
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:32:49.864
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:32:49.864
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:32:49.864
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:32:49.864
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 20:33:18.475
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 20:33:19.166
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:33:33.765
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:33.765
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:33.765
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:33.765
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:33.765
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:33.765
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:33.765
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:33.765
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:33.765
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:33:39.123
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:39.123
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:39.123
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:39.123
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:39.123
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:39.123
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:39.123
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:39.123
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:33:39.123
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:33:40.170
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:33:44.391
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:35:23.778
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:23.778
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:23.778
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:23.778
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:23.778
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:23.778
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:23.778
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:23.778
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:23.778
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:35:46.981
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:46.981
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:46.981
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:46.981
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:46.981
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:46.981
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:46.981
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:46.981
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:35:46.981
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 20:36:47.469
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 20:36:48.058
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:36:56.140
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:36:56.140
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:36:56.140
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:36:56.140
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:36:56.140
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:36:56.140
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:36:56.140
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:36:56.140
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:36:56.140
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:37:01.994
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:37:01.994
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:37:01.994
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:37:01.994
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:37:01.994
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:37:01.994
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:37:01.994
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:37:01.994
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:37:01.994
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:37:03.086
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:37:07.643
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 20:37:38.100
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:38:18.841
+!MESSAGE Full publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:38:18.841
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:38:18.841
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:38:18.841
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:38:18.841
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:38:18.841
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:38:18.841
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:38:18.841
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:38:18.841
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:38:19.904
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:38:24.061
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:41:09.634
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:41:09.634
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:41:09.634
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:41:09.634
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:41:09.634
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:41:09.634
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:41:09.634
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:41:09.634
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:41:09.634
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-06-30 20:43:39.955
+!MESSAGE Incremental publish failed for module escola
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:43:39.955
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-core\4.5.1\lucene-core-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:43:39.955
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-analyzers-common\4.5.1\lucene-analyzers-common-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:43:39.955
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queryparser\4.5.1\lucene-queryparser-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:43:39.955
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-queries\4.5.1\lucene-queries-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:43:39.955
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\apache\lucene\lucene-sandbox\4.5.1\lucene-sandbox-4.5.1.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:43:39.955
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\jakarta-regexp\jakarta-regexp\1.4\jakarta-regexp-1.4.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:43:39.955
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\org\codehaus\groovy\groovy-all\2.4.3\groovy-all-2.4.3.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-06-30 20:43:39.955
+!MESSAGE Error reading file C:\Users\danie_000\.m2\repository\net\bootsfaces\bootsfaces\0.6.6\bootsfaces-0.6.6.jar
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:53:51.676
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:53:52.007
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 20:54:31.156
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2015-06-30 20:54:32.261
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:54:33.292
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:54:37.826
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-06-30 20:55:03.120
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-06-30 20:55:04.090
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-06-30 20:56:15.790
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-06-30 20:56:19.937
+!MESSAGE Server Startup Succeeded

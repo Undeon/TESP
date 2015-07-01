@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:a4j="http://richfaces.org/a4j"
+	xmlns:rich="http://richfaces.org/rich"
+	xmlns:b="http://bootsfaces.net/ui"
+	template="/WEB-INF/templates/default.xhtml">
+	<ui:define name="content">
+		<rich:panel header="Cadastros">
+			<!-- bar of search and table disciplines -->
+
+			<h:outputText value="Lista de disciplinas"
+				style="font-size: 15px; font-weight:bold;"
+				rendered="#{empty disciplinaMb.disciplina}" />
+
+			<!-- inicio barra de pesquisa -->
+			<h:form id="search" rendered="#{empty disciplinaMb.disciplina}">
+				<rich:toolbar height="26" itemSeparator="grid">
+					<rich:toolbarGroup>
+						<h:commandButton id="novo" value="Novo"
+							action="#{disciplinaMb.novo}" />
+					</rich:toolbarGroup>
+					<rich:toolbarGroup>
+						<h:outputLabel value="Name" />
+						<h:inputText id="nomedisciplina"
+							value="#{disciplinaMb.nomeDisciplina}" />
+						<h:outputLabel value="Curso" />
+						<h:inputText id="nomeCurso" value="#{disciplinaMb.nomeCurso}" />
+						<h:commandButton value="Pesquisar" id="pesquisa"
+							action="#{disciplinaMb.pesquisa}" />
+					</rich:toolbarGroup>
+				</rich:toolbar>
+			</h:form>
+			<!-- fim barra de pesquisa -->
+
+			<h:panelGroup rendered="#{empty disciplinaMb.disciplinas}">
+				<h:outputText value="Nenhuma Disciplina cadastrada"
+					style="font-weight:bold;" />
+			</h:panelGroup>
+
+			<!-- inicio tabela disciplinas -->
+			<h:form rendered="#{empty disciplinaMb.disciplina}">
+				<rich:messages />
+				<rich:dataTable id="tabeladisciplinas" var="disciplina"
+					value="#{disciplinaMb.disciplinas}"
+					onrowclick="selectRow('#{disciplina.id}')"
+					rendered="#{not empty disciplinaMb.disciplinas}">
+					<rich:column>
+						<f:facet name="header">
+							<h:outputText value="Id" />
+						</f:facet>
+						<h:outputText value="#{disciplina.id}" />
+					</rich:column>
+					<rich:column>
+						<f:facet name="header">
+							<h:outputText value="Nome" />
+						</f:facet>
+						<h:outputText value="#{disciplina.nome}" />
+					</rich:column>
+					<rich:column>
+						<f:facet name="header">
+							<h:outputText value="Curso" />
+						</f:facet>
+						<h:outputText value="#{disciplina.curso}" />
+					</rich:column>
+					<rich:column>
+						<f:facet name="header">
+							<h:outputText value="Carga Horária" />
+						</f:facet>
+						<h:outputText value="#{disciplina.cargaHoraria}" />
+					</rich:column>
+					<rich:column>
+						<f:facet name="header">
+							<h:outputText value="Tipo" />
+						</f:facet>
+						<h:outputText value="#{disciplinaMb.getTipo(disciplina.tipo)}" />
+					</rich:column>
+					<rich:column>
+						<f:facet name="header">
+							<h:outputText value="Sala" />
+						</f:facet>
+						<h:outputText value="#{disciplina.sala.codigo}" />
+					</rich:column>
+					<rich:column>
+						<f:facet name="header">
+							<h:outputText value="Professor" />
+						</f:facet>
+						<h:outputText value="#{disciplina.professor.nome}" />
+					</rich:column>
+					<rich:column>
+						<f:facet name="header">
+							<h:outputText value="Editar / Excluir" />
+						</f:facet>
+						<h:commandLink id="edit" value="Editar"
+							action="#{disciplinaMb.editar}">
+							<f:setPropertyActionListener value="#{disciplina.id}"
+								target="#{disciplinaMb.id}" />
+						</h:commandLink>
+						<h:outputText value="/" />
+
+						<h:commandLink id="excluir" value="Excluir" render="tabela">
+							<rich:componentControl target="popupExclusao" operation="show" />
+						</h:commandLink>
+						<rich:popupPanel id="popupExclusao" modal="true" autosized="true"
+							resizeable="false" domElementAttachment="form">
+							<f:facet name="header">
+								<h:outputText value="Janela de confirmação" />
+							</f:facet>
+							<f:facet name="controls">
+								<h:outputLink value="#"
+									onclick="#{rich:component('popupConf')}.hide(); return false;">X</h:outputLink>
+							</f:facet>
+							<p>Confirma a exclusão da Disciplina #{disciplina.nome}?</p>
+							<center>
+								<h:commandButton value="Sim" action="#{disciplinaMb.excluir}">
+									<f:setPropertyActionListener target="#{disciplinaMb.id}"
+										value="#{disciplina.id}" />
+								</h:commandButton>
+								<h:outputLabel value=" " />
+								<h:commandButton value="Não"
+									onclick="#{rich:component('popupConf')}.hide(); return false;" />
+							</center>
+						</rich:popupPanel>
+
+					</rich:column>
+				</rich:dataTable>
+			</h:form>
+			<!-- fim tabela disciplinas -->
+
+			<!-- inicio form tabpainel-->
+			<h:panelGroup id="registers"
+				rendered="#{not empty disciplinaMb.disciplina}">
+				<rich:messages />
+				<h:form>
+					<h:outputText value="Cadastro de disciplina"
+						style="font-size:15px; font-weight:bold;" />
+					<rich:tabPanel id="tp" headerPosition="top" headerLocation="center">
+						<rich:tab header="Geral">
+							<h:panelGrid columns="3">
+
+								<h:outputLabel value="Nome" />
+								<h:inputText id="nome" value="#{disciplinaMb.disciplina.nome}" />
+								<h:message for="nome" errorClass="invalid" />
+
+								<h:outputLabel value="Curso" for="curso" />
+								<h:inputText id="curso" value="#{disciplinaMb.disciplina.curso}" />
+								<h:message for="curso" errorClass="invalid" />
+
+								<h:outputLabel value="Carga Horária" for="cargahoraria" />
+								<rich:inputNumberSpinner id="cargahoraria" minValue="0"
+									maxValue="160" value="#{disciplinaMb.disciplina.cargaHoraria}" />
+								<h:message for="cargahoraria" errorClass="invalid" />
+
+								<h:outputLabel value="Tipo" for="tipo" />
+								<h:selectOneRadio id="tipo"
+									value="#{disciplinaMb.disciplina.tipo}">
+									<f:selectItem itemValue="1" itemLabel="Presencial" />
+									<f:selectItem itemValue="2" itemLabel="À distância" />
+									<f:selectItem itemValue="3"
+										itemLabel="Presencial e à distância" />
+								</h:selectOneRadio>
+								<h:message for="tipo" errorClass="invalid" />
+
+								<br />
+
+								<h:outputLabel value="Sala" for="sala" />
+								<rich:select id="sala" value="#{disciplinaMb.disciplina.sala}"
+									defaultLabel="Selecione a sala">
+									<f:selectItems value="#{disciplinaMb.salas}" var="s"
+										itemValue="#{s}"
+										itemLabel="#{s.codigo} (Capacidade=#{s.capacidade})" />
+									<f:converter converterId="ConversorSala" />
+								</rich:select>
+
+								<br />
+
+								<h:outputLabel value="Professor" for="professor" />
+								<rich:select id="professor"
+									value="#{disciplinaMb.disciplina.professor}"
+									defaultLabel="Selecione o professor">
+									<f:selectItems value="#{disciplinaMb.professores}" var="p"
+										itemValue="#{p}" itemLabel="#{p.nome}" />
+									<f:converter converterId="ConversorProfessor" />
+								</rich:select>
+
+							</h:panelGrid>
+						</rich:tab>
+						<rich:tab header="Plano de Ensino">
+							<h:panelGrid columns="1">
+
+								<h:outputLabel value="Ementa" for="ementa" />
+								<h:inputTextarea id="ementa" rows="5" cols="100"
+									value="#{disciplinaMb.disciplina.ementa}" />
+								<h:message for="ementa" errorClass="invalid" />
+
+								<br />
+								<h:outputLabel value="Bibliografia" for="bibliografia" />
+								<h:inputTextarea id="bibliografia" rows="5" cols="100"
+									value="#{disciplinaMb.disciplina.bibliografia}" />
+								<h:message for="bibliografia" errorClass="invalid" />
+
+								<br />
+								<h:outputLabel value="Distribuição das Avalições"
+									for="avaliacao" />
+								<h:inputTextarea id="avaliacao" rows="5" cols="100"
+									value="#{disciplinaMb.disciplina.distribuicaoAvalicao}" />
+								<h:message for="avaliacao" errorClass="invalid" />
+
+								<br />
+								<h:outputLabel value="Observações" for="obs" />
+								<h:inputTextarea id="obs" rows="5" cols="100"
+									value="#{disciplinaMb.disciplina.observacao}" />
+								<h:message for="obs" errorClass="invalid" />
+
+							</h:panelGrid>
+						</rich:tab>
+						<rich:tab header="Alunos">
+							<h:panelGrid columns="3">
+								<rich:panel>
+
+									<f:facet name="header">
+										<h:outputText value="Selecione os alunos" />
+									</f:facet>
+									<rich:pickList value="#{disciplinaMb.disciplina.alunos}"
+										sourceCaption="Alunos disponíveis"
+										targetCaption="Alunos Selecionados" listWidth="265px"
+										listHeight="100px" orderable="true">
+										<f:selectItems value="#{disciplinaMb.alunos}" var="a"
+											itemValue="#{a}" itemLabel="#{a.nome}" />
+										<f:converter converterId="ConversorAluno" />
+									</rich:pickList>
+								</rich:panel>
+
+							</h:panelGrid>
+						</rich:tab>
+					</rich:tabPanel>
+
+					<strong>Navegue entre as abas: </strong>
+					<h:commandLink value="Anterior">
+						<rich:toggleControl targetPanel="tp" targetItem="@prev" />
+					</h:commandLink>
+
+					<h:outputText value=" | " />
+
+					<h:commandLink value="Proxíma">
+						<rich:toggleControl targetPanel="tp" targetItem="@next" />
+					</h:commandLink>
+
+					<br />
+					<br />
+					<br />
+					<h:commandButton id="save" value="Gravar"
+						action="#{disciplinaMb.gravar}" />
+
+					<h:commandButton id="cancenlar" value="Cancelar"
+						action="#{disciplinaMb.cancelar}" immediate="true" />
+
+				</h:form>
+			</h:panelGroup>
+			<!-- fim do tabpainel -->
+
+		</rich:panel>
+	</ui:define>
+</ui:composition>

@@ -1,5 +1,7 @@
 package br.unibh.escola.controller;
 
+import java.util.logging.Logger;
+
 import javax.annotation.PostConstruct;
 import javax.ejb.Stateful;
 import javax.enterprise.event.Event;
@@ -8,9 +10,6 @@ import javax.enterprise.inject.Produces;
 import javax.inject.Inject;
 import javax.inject.Named;
 import javax.persistence.EntityManager;
-
-import org.jboss.logging.Logger;
-import org.jboss.seam.solder.logging.Category;
 
 import br.unibh.escola.model.Member;
 
@@ -24,7 +23,6 @@ import br.unibh.escola.model.Member;
 public class MemberRegistration {
 
    @Inject
-   @Category("escola")
    private Logger log;
 
    @Inject

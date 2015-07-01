@@ -1,11 +1,17 @@
 package br.unibh.escola.negocio;
 import java.util.List;
 import java.util.logging.Logger;
+
 import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
+
+import br.unibh.escola.entidades.Aluno;
+import br.unibh.escola.entidades.Disciplina;
 import br.unibh.escola.entidades.Pessoa;
+import br.unibh.escola.entidades.Professor;
+import br.unibh.escola.entidades.Sala;
 @Stateless
 @LocalBean
 public class ServicoPessoa implements DAO<Pessoa, Long> {
@@ -47,5 +53,25 @@ public class ServicoPessoa implements DAO<Pessoa, Long> {
 		log.info("Encontrando Pessoas "+name);
 		return em.createNamedQuery("Pessoa.findByName")
 				.setParameter("nome", name+"%").getResultList();
+	}
+	@Override
+	public void Delete(Professor professor) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void Delete(Aluno aluno) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void Delete(Sala t) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void Delete(Disciplina t) throws Exception {
+		// TODO Auto-generated method stub
+		
 	}
 }
